@@ -9,22 +9,6 @@
 @import url("https://dablulite.github.io/css-snippets/AccountDetailsGrid/import.css");
 @import url("https://dablulite.github.io/css-snippets/NoLightInDark/import.css");
 
-/***TRANSPARENT CODES***/
-/**transparent part LVL I**/
-/*home tab fix*/
-.forumOrHome__75784{
-  background: transparent;
-}
-/*spotify controls error background*/
-.panels__58331 span {
-  background: transparent!important;
-}
-/*friends tab*/
-.content__4bf10 > div,
-.panels__58331 {
-  background: transparent !important;
-}
-/*transparent scrollbar*/
 ::-webkit-scrollbar,
 ::-webkit-scrollbar-track,
 ::-webkit-scrollbar-track-piece {
@@ -35,7 +19,6 @@
 /* ::-webkit-scrollbar-thumb {
   border: none !important;
   background-clip: content-box !important;
-  background: transparent !important;
 } */
 /*transparent call background*/
 .wrapper_bd2abe,
@@ -46,9 +29,6 @@
 .root__1f845,
 .tile_a411a4 {
   background: none;
-}
-.videoGrid__8b6fc {
-  background: transparent !important;
 }
 /**transparent part LVL II**/
 /*small profile modal*/
@@ -61,10 +41,6 @@
 }
 .avatar-2Vndt_ {
   border: 6px solid transparent;
-  background-color: transparent;
-}
-.bodyInnerWrapper-2bQs1k {
-  background: transparent;
 }
 /*small profile modal 2*/
 .avatar-2OC07D {
@@ -111,7 +87,6 @@
 }
 .inspector-2A2Ch {
   backdrop-filter: blur(5px);
-  background: transparent;
 }
 .feature-2IUcBI,
 .container-2nx-BQ,
@@ -121,9 +96,6 @@
 .verticalFit_d9ac53,
 .card-16VQ8C {
   background: #0001 !important;
-}
-.bottomDivider_a59d97 {
-  background: transparent !important;
 }
 .bar-1Bhnl9,
 .markDash-yk2kJ- {
@@ -135,14 +107,6 @@
 .bd-addon-card {
   background: rgba(0, 0, 0, 0.349) !important;
 }
-.bd-addon-header {
-  background: transparent !important;
-}
-/*forum channel*/
-.container-3wLKDe {
-  background: transparent !important;
-}
-
 /*--FANCY CSS CODES--*/
 /*discord wordmark*/
 .wordmark__0d178 path {
@@ -652,7 +616,6 @@ span:not(.spinner-item) {
 .search_ac353c:not(.open_d3ab4e) .searchBar_e0c60b {
   width: 20px;
   transition: var(--transitionspeed);
-  background-color: transparent;
 }
 .search_ac353c:not(.open_d3ab4e):hover .searchBar_e0c60b {
   width: 240px;
@@ -797,7 +760,6 @@ span:not(.spinner-item) {
 }
 .guilds__2b93a .scroller__3d071 .circleIconButton_d8df29:hover {
   color: #ffffff;
-  background: transparent;
 }
 .pill__13f64 {
   display: none;
@@ -1105,7 +1067,6 @@ div[class*="wrapper_edb6e0"][aria-label*="Online"]
 }
 /*Connection Issue Let Me Be*/
 .container__4bde3 {
-  background: transparent;
   pointer-events: none;
 }
 .container__4bde3 .anchor-1MIwyf {
@@ -1429,7 +1390,6 @@ div[class*="wrapper_edb6e0"][aria-label*="Online"]
   margin: 5px;
   border-radius: 0px 5px 5px 0px;
   color: #fff;
-  background: transparent;
   transform: rotate(45deg) !important;
   transition: 0.1s;
   backdrop-filter: none;
@@ -1452,7 +1412,6 @@ div[class*="wrapper_edb6e0"][aria-label*="Online"]
   margin: 5px;
   border-radius: 0px;
   color: #fff;
-  background: transparent;
   transform: rotate(45deg) !important;
   transition: 0.1s;
   backdrop-filter: none;
@@ -1475,7 +1434,6 @@ div[class*="wrapper_edb6e0"][aria-label*="Online"]
   margin: 5px;
   border-radius: 5px 0px 0px 5px;
   color: #fff;
-  background: transparent;
   transform: rotate(45deg) !important;
   transition: 0.1s;
   backdrop-filter: none;
@@ -1545,11 +1503,7 @@ div[class*="wrapper_edb6e0"][aria-label*="Online"]
   left: 0;
   right: 0;
 }
-.container_ca50b9{
-background: transparent!important;
-}
 .sidebar_ded4b5 {
-  background-color: transparent;
   position: relative;
   overflow: hidden;
 }
@@ -1742,7 +1696,6 @@ transform: translateY(2px);
   min-height: unset;
   padding: 0;
   border-radius: 50px;
-  background-color: transparent !important;
   font-size: 0;
   border: none!important;
   box-shadow: none;
@@ -1760,7 +1713,6 @@ transform: translateY(2px);
 }
 /*toolbar fix [the bar when u double click ur unsent text]*/
 .toolbar_c7b525 .inactive_dd1578 {
-  background: transparent !important;
   box-shadow: none !important;
 }
 /* sus links warning */
@@ -1823,9 +1775,6 @@ transform: translateY(2px);
   background: rgb(43, 43, 44);
   transition: 0.2s;
 }
-.section_efc22d {
-  background: transparent;
-}
 /*pins inbox background fix*/
 .messagesPopoutWrap_b3b384,
 .recentMentionsPopout__826a9,
@@ -1851,10 +1800,6 @@ transform: translateY(2px);
 /*custom nsfw warning*/
 .image__0cdbe {
   content: url("https://cdn-icons-png.flaticon.com/512/4842/4842436.png");
-}
-.flex_f5fbb7.vertical__1e37a.gatedContent_ba8306
-  > .flex_f5fbb7.flex__909d4.horizontal__992f6.horizontal__65889.flex__909d4.directionRow__2bb0b.justifyCenter__4080c.alignCenter__84269.noWrap__5c413 {
-  background: transparent !important;
 }
 /*message hover small buttons fix*/
 .wrapper_c727b6 {
@@ -2395,9 +2340,6 @@ bottom: -1px;
   top: 30px;
   border-radius: 8px;
 }
-.background_b61fcc {
-  background: transparent!important;
-}
 .settingsBanner-2E5fAp {
   border-radius: 8px;
 }
@@ -2430,7 +2372,6 @@ bottom: -1px;
   min-height: unset;
   padding: 0;
   border-radius: 50px;
-  background-color: transparent !important;
   font-size: 0;
   border: none!important;
   box-shadow: none;
@@ -2606,10 +2547,8 @@ margin-bottom: -30px;
 .bannerSVGWrapper__3e7b0 foreignObject {
 mask: none;
 }
-.profilePanel__12596>.userProfileOuterUnthemed__48723>div,#app-mount .userProfileOuterUnthemed__48723{background: none;background-color: transparent;}
 /*user profile in dms fix*/
 .mutualGuildsList__6e961 > .collapseBtn_f82249, .mutualFriendsList__632b5 > .collapseBtn_f82249 {
-  background: transparent!important;
   box-shadow: none!important;
   border-radius: 0px!important;
 }
@@ -2655,23 +2594,11 @@ opacity: 01!important;
   box-shadow: 0 0 15px rgb(0, 0, 0);
 }
 /*forum fix*/
-.forumOrHome__75784 {
-  background: transparent!important;
-}
-.children__32014:after{
-  background: transparent!important;
-}
-.flex_fc800b .scrollbar_d66c5e {
-  background-color: transparent!important;
-}
 .container-2qVG6q:hover {
   background-color: #181a1db7;
 }
 .container__99b06.isOpen__8593d{
   background-color: #181a1d;
-}
-.container_b181b6 {
-  background: transparent!important;
 }
 /*custom edited icon*/
 .edited_b20dd9 {color: transparent} /*Render the original edited text invisible*/
